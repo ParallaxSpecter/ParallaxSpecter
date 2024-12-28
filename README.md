@@ -5,4 +5,4 @@
 - Create Site
 - Military Project
 
-https://img.shields.io/badge/Licenza-MIT-green?style=plastic
+[https://img.shields.io/badge/Status-✔️%20Completato-green]
