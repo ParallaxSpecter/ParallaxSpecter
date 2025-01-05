@@ -1,5 +1,5 @@
 
-![Status](https://img.shields.io/badge/Privete%20Repo-✔️20-red)
+![Status](https://img.shields.io/badge/Privete%20Repo-✔️7-red)
 
 ![Status](https://img.shields.io/badge/Status-✔️%20Ready%20For%20War-red)
 
